@@ -2,6 +2,15 @@
 
 ## PowerBI
 
+HR Analytics Recruitment Analysis
+[LINK to project:](https://github.com/juliabeco/PowerBI)  
+Description: Created a Power BI report to analyze a recruitment process, converting a flat file into a star schema model. The report includes metrics such as the shortlisting percentage vs. total applicants, detailed drill-through features, and various DAX measures for advanced analysis. Interactive slicers and charts highlight key recruitment insights to assist in data-driven decision-making. The project emphasizes the advantages of a star schema over a single-table model for enhanced performance and scalability.
+See [ScreenShot 1](https://github.com/juliabeco/PowerBI/blob/main/HR1.PNG)
+See [ScreenShot 2](https://github.com/juliabeco/PowerBI/blob/main/HR2.PNG)
+See [ScreenShot 3](https://github.com/juliabeco/PowerBI/blob/main/HR3.PNG)
+See [ScreenShot 4](https://github.com/juliabeco/PowerBI/blob/main/HR4.PNG)
+[File](https://github.com/juliabeco/PowerBI/blob/main/HR%20star.pbix) 
+
 **Financial Analysis Dashboard**: 
   [[LINK to project: ]](https://github.com/juliabeco/PowerBI) 
   Description: Created a Dashboard from Database Financial Analysis Database on SQL (see (https://github.com/juliabeco/SQL-projects/blob/main/companies.sql) ).  Database contained financial data of companies, including stock prices, revenues, and expenses. 
