@@ -2,7 +2,7 @@
 
 ## PowerBI
 
-HR Analytics Recruitment Analysis
+**HR Analytics Recruitment Analysis**
 [LINK to project:](https://github.com/juliabeco/PowerBI)  
 Description: Created a Power BI report to analyze a recruitment process, converting a flat file into a star schema model. The report includes metrics such as the shortlisting percentage vs. total applicants, detailed drill-through features, and various DAX measures for advanced analysis. Interactive slicers and charts highlight key recruitment insights to assist in data-driven decision-making. The project emphasizes the advantages of a star schema over a single-table model for enhanced performance and scalability.
 See [ScreenShot 1](https://github.com/juliabeco/PowerBI/blob/main/HR1.PNG)
